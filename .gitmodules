@@ -1,0 +1,3 @@
+[submodule "node_modules/ReactorCore"]
+	path = node_modules/ReactorCore
+	url = git@github.com:ReactReactor/ReactorCore.git
